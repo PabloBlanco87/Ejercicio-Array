@@ -1,0 +1,14 @@
+C:\Users\Pablo\source\repos\Act Desarrollo\Act Desarrollo\bin\Debug\Act Desarrollo.exe.config
+C:\Users\Pablo\source\repos\Act Desarrollo\Act Desarrollo\bin\Debug\Act Desarrollo.exe
+C:\Users\Pablo\source\repos\Act Desarrollo\Act Desarrollo\bin\Debug\Act Desarrollo.pdb
+C:\Users\Pablo\source\repos\Act Desarrollo\Act Desarrollo\obj\Debug\Act Desarrollo.csprojAssemblyReference.cache
+C:\Users\Pablo\source\repos\Act Desarrollo\Act Desarrollo\obj\Debug\Act Desarrollo.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\Act Desarrollo\Act Desarrollo\obj\Debug\Act Desarrollo.exe
+C:\Users\Pablo\source\repos\Act Desarrollo\Act Desarrollo\obj\Debug\Act Desarrollo.pdb
+C:\Users\Pablo\Documents\DAM\1º curso\Programación A\UF1\PAC6_UF1_Pablo_Blanco_Hernandez\Act 1 Arrays\Act Desarrollo\bin\Debug\Act Desarrollo.exe.config
+C:\Users\Pablo\Documents\DAM\1º curso\Programación A\UF1\PAC6_UF1_Pablo_Blanco_Hernandez\Act 1 Arrays\Act Desarrollo\bin\Debug\Act Desarrollo.exe
+C:\Users\Pablo\Documents\DAM\1º curso\Programación A\UF1\PAC6_UF1_Pablo_Blanco_Hernandez\Act 1 Arrays\Act Desarrollo\bin\Debug\Act Desarrollo.pdb
+C:\Users\Pablo\Documents\DAM\1º curso\Programación A\UF1\PAC6_UF1_Pablo_Blanco_Hernandez\Act 1 Arrays\Act Desarrollo\obj\Debug\Act Desarrollo.csprojAssemblyReference.cache
+C:\Users\Pablo\Documents\DAM\1º curso\Programación A\UF1\PAC6_UF1_Pablo_Blanco_Hernandez\Act 1 Arrays\Act Desarrollo\obj\Debug\Act Desarrollo.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Documents\DAM\1º curso\Programación A\UF1\PAC6_UF1_Pablo_Blanco_Hernandez\Act 1 Arrays\Act Desarrollo\obj\Debug\Act Desarrollo.exe
+C:\Users\Pablo\Documents\DAM\1º curso\Programación A\UF1\PAC6_UF1_Pablo_Blanco_Hernandez\Act 1 Arrays\Act Desarrollo\obj\Debug\Act Desarrollo.pdb
